@@ -1,6 +1,6 @@
 SimpleScalar Results Table Generator
 <div align="center">
-📊 Automated Performance Analysis Tool for SimpleScalar
+Automated Performance Analysis Tool for SimpleScalar
 COA/CA Project — Spring 2026 | ITU Lahore
 
 Developed By Muhammad Raza Mukhtar
